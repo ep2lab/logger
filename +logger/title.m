@@ -33,7 +33,7 @@ if priority >= logoptions.filedebuglevel
         fprintf(fid,'          %s\n',message(l*(i-1)+1:min(l*i,length(message))));
     end
     for i = 1:max(70,logoptions.linelength); fprintf(fid,'-'); end;
-    fprintf(fid,'\n');
+    fprintf(fid,'\n\n');
     fclose(fid);
 end
 
@@ -46,5 +46,5 @@ if priority >= logoptions.screendebuglevel
         fprintf(1,'          %s\n',message(l*(i-1)+1:min(l*i,length(message))));
     end
     for i = 1:max(70,logoptions.linelength); fprintf(1,'-'); end;
-    fprintf(1,'\n');
+    fprintf(1,'\n\n');
 end
