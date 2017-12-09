@@ -1,10 +1,10 @@
 LOGGER
 ======
 
-[![DOI](https://zenodo.org/badge/xxxx.svg)](https://zenodo.org/badge/latestdoi/xxxx)
+[![DOI](https://zenodo.org/badge/111740459.svg)](https://zenodo.org/badge/latestdoi/111740459)
 
-Simple logger package, capable of writing to screen and file with several 
-options.
+Simple logger package for Matlab, 
+capable of writing to screen and file with several  options.
 
 ## Installation
 
@@ -16,11 +16,7 @@ and add the base directory
 ### Dependencies
 
 A recent version of Matlab is needed to run the code. 
-The code has been developed in Matlab 2016a Academic version. 
-
-## Usage
-
-See the comments in each Matlab function for help on their usage.
+The code has been developed in Matlab 2016a Academic version.  
 
 ### Testing
 
