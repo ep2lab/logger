@@ -1,12 +1,7 @@
 %{
 Compendium of all tests for the function/class in the name of this file.
 You can run the tests by executing runtests. You must add the package to
-your path first. 
-
-%----------------------------------------------------------------------
-Author: Mario Merino
-Date: 20171122
-%----------------------------------------------------------------------
+your path first.  
 %}
 function tests = logger_test
     tests = functiontests(localfunctions);     
