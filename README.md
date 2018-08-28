@@ -9,7 +9,7 @@ capable of writing to screen and file with several  options.
 ## Installation
 
 Installation requires simply that you 
-[download LOGGER](https://github.com/ep2/logger/archive/master.zip) 
+[download LOGGER](https://github.com/ep2lab/logger/archive/master.zip) 
 and add the base directory 
 (the one that contains the `+logger` directory) to your Matlab path.
 
